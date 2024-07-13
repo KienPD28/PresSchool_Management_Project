@@ -1,0 +1,667 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 20, 2024, 5:05:24 PM
+    Author     : DELL
+*/
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 17, 2024, 11:40:58 AM
+    Author     : admin
+*/
+.contact {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.contact .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 2174px;
+    position: relative;
+}
+
+.contact .component {
+    position: absolute;
+    width: 1440px;
+    height: 244px;
+    top: 1930px;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.contact .overlap-group {
+    position: relative;
+    height: 244px;
+    background-color: #067392;
+}
+
+.contact .text-wrapper {
+    width: 136px;
+    top: 41px;
+    left: 110px;
+    font-family: "Kavoon-Regular", Helvetica;
+    font-weight: 400;
+    color: #00b8ec;
+    font-size: 40px;
+    white-space: nowrap;
+    position: absolute;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact .text-wrapper-2 {
+    position: absolute;
+    width: 200px;
+    top: 51px;
+    left: 413px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .text-wrapper-3 {
+    position: absolute;
+    width: 100px;
+    top: 74px;
+    left: 413px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .text-wrapper-4 {
+    top: 96px;
+    left: 413px;
+    position: absolute;
+    width: 100px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .text-wrapper-5 {
+    top: 119px;
+    left: 413px;
+    position: absolute;
+    width: 100px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .text-wrapper-6 {
+    top: 141px;
+    left: 413px;
+    position: absolute;
+    width: 100px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .text-wrapper-7 {
+    top: 51px;
+    left: 741px;
+    position: absolute;
+    width: 100px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .text-wrapper-8 {
+    top: 51px;
+    left: 969px;
+    position: absolute;
+    width: 100px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .text-wrapper-9 {
+    top: 74px;
+    left: 967px;
+    position: absolute;
+    width: 100px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .text-wrapper-10 {
+    top: 74px;
+    left: 741px;
+    position: absolute;
+    width: 100px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .text-wrapper-11 {
+    top: 96px;
+    left: 741px;
+    position: absolute;
+    width: 100px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .text-wrapper-12 {
+    top: 119px;
+    left: 741px;
+    position: absolute;
+    width: 100px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .line {
+    position: absolute;
+    width: 1235px;
+    height: 3px;
+    top: 198px;
+    left: 101px;
+}
+
+.contact .component-2 {
+    position: absolute;
+    width: 1227px;
+    height: 62px;
+    top: 70px;
+    left: 111px;
+}
+
+.contact .overlap {
+    position: absolute;
+    width: 223px;
+    height: 62px;
+    top: 0;
+    left: 1023px;
+    background-color: #00b8ec;
+    border-radius: 30px;
+}
+
+.contact .text-wrapper-13 {
+    position: absolute;
+    top: 15px;
+    left: 77px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .text-wrapper-14 {
+    top: 16px;
+    left: 861px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #00b8ec;
+    font-size: 24px;
+    position: absolute;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact .text-wrapper-15 {
+    position: absolute;
+    top: 16px;
+    left: 698px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact .text-wrapper-16 {
+    top: 16px;
+    left: 582px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    position: absolute;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact .text-wrapper-17 {
+    top: 6px;
+    left: 0;
+    font-family: "Kavoon-Regular", Helvetica;
+    font-weight: 400;
+    color: #00b8ec;
+    font-size: 40px;
+    position: absolute;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact .icon-park-solid-fire {
+    position: absolute;
+    width: 39px;
+    height: 39px;
+    top: 12px;
+    left: 151px;
+}
+
+.contact .overlap-2 {
+    position: absolute;
+    width: 1440px;
+    height: 799px;
+    top: 163px;
+    left: 0;
+    background-image: url(./img/hoc-phi-truong-mam-non-song-ngu-optimized-scaled-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.contact .component-3 {
+    position: absolute;
+    width: 441px;
+    height: 179px;
+    top: 316px;
+    left: 122px;
+}
+
+.contact .text-wrapper-18 {
+    position: absolute;
+    width: 441px;
+    top: -1px;
+    left: 0;
+    font-family: "Josefin Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .text-wrapper-19 {
+    position: absolute;
+    width: 354px;
+    top: 97px;
+    left: 43px;
+    font-family: "Josefin Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #00d1ff;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .p {
+    position: absolute;
+    width: 831px;
+    top: 512px;
+    left: 122px;
+    font-family: "Josefin Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact .overlap-3 {
+    position: absolute;
+    width: 1272px;
+    height: 803px;
+    top: 1082px;
+    left: 12px;
+}
+
+.contact .overlap-4 {
+    position: absolute;
+    width: 1102px;
+    height: 634px;
+    top: 0;
+    left: 0;
+}
+
+.contact .text-wrapper-20 {
+    position: absolute;
+    top: 0;
+    left: 493px;
+    font-family: "Josefin Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .customer-service {
+    position: absolute;
+    width: 681px;
+    height: 589px;
+    top: 45px;
+    left: 0;
+}
+
+.contact .component-4 {
+    position: absolute;
+    width: 498px;
+    height: 646px;
+    top: 157px;
+    left: 774px;
+}
+
+.contact .div-wrapper {
+    position: absolute;
+    width: 223px;
+    height: 62px;
+    top: 584px;
+    left: 0;
+    background-color: #00b8ec;
+    border-radius: 30px;
+}
+
+.contact .text-wrapper-21 {
+    position: absolute;
+    top: 13px;
+    left: 66px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .overlap-5 {
+    position: absolute;
+    width: 220px;
+    height: 59px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: #000000;
+}
+
+.contact .text-wrapper-22 {
+    position: absolute;
+    top: 16px;
+    left: 62px;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .overlap-6 {
+    position: absolute;
+    width: 220px;
+    height: 59px;
+    top: 100px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: #000000;
+}
+
+.contact .text-wrapper-23 {
+    position: absolute;
+    top: 16px;
+    left: 44px;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .overlap-7 {
+    position: absolute;
+    width: 498px;
+    height: 60px;
+    top: 301px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: #000000;
+}
+
+.contact .rectangle {
+    position: absolute;
+    width: 498px;
+    height: 60px;
+    top: -3px;
+    left: -3px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: #000000;
+}
+
+.contact .text-wrapper-24 {
+    position: absolute;
+    top: 16px;
+    left: 214px;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .overlap-8 {
+    position: absolute;
+    width: 498px;
+    height: 60px;
+    top: 200px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: #000000;
+}
+
+.contact .text-wrapper-25 {
+    position: absolute;
+    top: 16px;
+    left: 220px;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .overlap-9 {
+    position: absolute;
+    width: 498px;
+    height: 139px;
+    top: 402px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: #000000;
+}
+
+.contact .text-wrapper-26 {
+    position: absolute;
+    top: 51px;
+    left: 199px;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .overlap-10 {
+    position: absolute;
+    width: 220px;
+    height: 59px;
+    top: 100px;
+    left: 278px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: #000000;
+}
+
+.contact .text-wrapper-27 {
+    position: absolute;
+    top: 16px;
+    left: 8px;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.contact .overlap-11 {
+    position: absolute;
+    width: 220px;
+    height: 59px;
+    top: 0;
+    left: 278px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: #000000;
+}
+
+.contact .text-wrapper-28 {
+    position: absolute;
+    top: 16px;
+    left: 47px;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+:root {
+    --demopage-darkbackgroundforcomponentsdemo: rgba(37, 31, 31, 1);
+    --demopage-lightbackgroundforcomponentsdemo: rgba(233, 232, 232, 1);
+    --themes-black-100: rgba(28, 28, 28, 1);
+    --themes-black-10: rgba(28, 28, 28, 0.1);
+}
+
+/*
+
+To enable a theme in your HTML, simply add one of the following data attributes to an HTML element, like so:
+
+<body data-themes-mode="light">
+        <!-- the rest of your content -->
+</body>
+
+You can apply the theme on any DOM node, not just the `body`
+
+*/
+
+[data-themes-mode="light"] {
+    --themes-black-100: rgba(28, 28, 28, 1);
+    --themes-black-10: rgba(28, 28, 28, 0.1);
+}
+
+[data-themes-mode="dark"] {
+    --themes-black-100: rgba(255, 255, 255, 1);
+    --themes-black-10: rgba(255, 255, 255, 0.2);
+}

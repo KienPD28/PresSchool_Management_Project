@@ -1,0 +1,563 @@
+.desktop-8-child {
+  	position: absolute;
+  	height: 8.34%;
+  	width: 100%;
+  	top: 91.66%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: #077493;
+}
+.component-1-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 18.17%;
+  	top: 0%;
+  	right: -1.55%;
+  	bottom: 0%;
+  	left: 83.37%;
+  	border-radius: 30px;
+  	background-color: #00b8ec;
+}
+.login {
+  	position: absolute;
+  	top: 25.81%;
+  	left: 89.65%;
+  	font-size: 25px;
+  	color: #fff;
+  	text-align: left;
+}
+.contact {
+  	position: absolute;
+  	top: 27.42%;
+  	left: 70.17%;
+}
+.about-us {
+  	position: absolute;
+  	top: 27.42%;
+  	left: 56.89%;
+  	color: #00b8ec;
+}
+.home {
+  	position: absolute;
+  	top: 27.42%;
+  	left: 47.43%;
+}
+.sakura {
+  	position: absolute;
+  	top: 11.29%;
+  	left: 0%;
+  	font-size: 40px;
+  	font-family: Kavoon;
+  	color: #00b8ec;
+}
+.icon-park-solidfire {
+  	position: absolute;
+  	height: 62.9%;
+  	width: 3.18%;
+  	top: 19.35%;
+  	right: 84.52%;
+  	bottom: 17.74%;
+  	left: 12.31%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.component-1 {
+  	position: absolute;
+  	top: 39px;
+  	left: 107px;
+  	width: 1227px;
+  	height: 62px;
+  	text-align: center;
+  	font-size: 24px;
+}
+.desktop-8-item {
+  	position: absolute;
+  	top: 1122px;
+  	left: 165px;
+  	border-radius: 30px;
+  	background-color: #abe3f3;
+  	width: 401px;
+  	height: 407px;
+}
+.desktop-8-inner {
+  	position: absolute;
+  	top: 1122px;
+  	left: 875px;
+  	border-radius: 30px;
+  	background-color: #abe3f3;
+  	width: 401px;
+  	height: 407px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 1629px;
+  	left: 875px;
+  	border-radius: 30px;
+  	background-color: #abe3f3;
+  	width: 401px;
+  	height: 407px;
+}
+.desktop-8-child1 {
+  	position: absolute;
+  	top: 1629px;
+  	left: 165px;
+  	border-radius: 30px;
+  	background-color: #abe3f3;
+  	width: 401px;
+  	height: 407px;
+}
+.c-s-vt {
+  	position: absolute;
+  	top: 1454px;
+  	left: 288px;
+  	font-size: 23px;
+  	font-family: Kadwa;
+}
+.chng-trnh-hc {
+  	position: absolute;
+  	top: 1454px;
+  	left: 977px;
+  	font-size: 23px;
+  	font-family: Kadwa;
+  	display: inline-block;
+  	width: 222px;
+}
+.ba-n-ti {
+  	position: absolute;
+  	top: 1960px;
+  	left: 977px;
+  	font-size: 23px;
+  	font-family: Kadwa;
+}
+.i-ng-gio {
+  	position: absolute;
+  	top: 1955px;
+  	left: 268px;
+  	font-size: 23px;
+  	font-family: Kadwa;
+}
+.hoc-phi-truong-mam-non-song-ng-icon {
+  	position: absolute;
+  	top: 138px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 799px;
+  	object-fit: cover;
+}
+.trng-hc {
+  	position: absolute;
+  	height: 45.44%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	display: inline-block;
+}
+.sng-to {
+  	position: absolute;
+  	height: 45.44%;
+  	width: 80.27%;
+  	top: 54.57%;
+  	left: 9.75%;
+  	display: inline-block;
+  	color: #00d1ff;
+}
+.component-2-child {
+  	position: absolute;
+  	height: 55.9%;
+  	width: 22.68%;
+  	top: 23.27%;
+  	right: -0.45%;
+  	bottom: 20.84%;
+  	left: 77.78%;
+  	overflow: hidden;
+}
+.component-2 {
+  	position: absolute;
+  	top: 454.38px;
+  	left: 122px;
+  	width: 441px;
+  	height: 178.9px;
+  	text-align: center;
+  	font-size: 80px;
+  	color: #fff;
+  	font-family: 'Josefin Sans';
+}
+.trng-mm-non {
+  	margin: 0;
+}
+.trng-mm-non-container {
+  	position: absolute;
+  	top: 651px;
+  	left: 122px;
+  	font-size: 30px;
+  	display: inline-block;
+  	font-family: 'Josefin Sans';
+  	color: #fff;
+  	width: 831px;
+}
+.frame-div {
+  	position: absolute;
+  	top: 292px;
+  	left: 919px;
+  	width: 100px;
+  	height: 100px;
+  	overflow: hidden;
+}
+.im-c-bit {
+  	position: absolute;
+  	top: 990px;
+  	left: 326px;
+  	font-size: 50px;
+  	font-family: 'Josefin Sans';
+  	text-align: center;
+}
+.bn-tin-sakura {
+  	position: absolute;
+  	top: 2126px;
+  	left: 648px;
+  	font-size: 50px;
+  	font-family: 'Josefin Sans';
+  	text-align: center;
+}
+.desktop-8-child2 {
+  	position: absolute;
+  	top: 2233px;
+  	left: 243px;
+  	border-radius: 30px;
+  	background-color: #d9d9d9;
+  	width: 414px;
+  	height: 396px;
+}
+.desktop-8-child3 {
+  	position: absolute;
+  	top: 2238px;
+  	left: 966px;
+  	border-radius: 30px;
+  	background-color: #d9d9d9;
+  	width: 201px;
+  	height: 153px;
+}
+.desktop-8-child4 {
+  	position: absolute;
+  	top: 2238px;
+  	left: 725px;
+  	border-radius: 30px;
+  	background-color: #d9d9d9;
+  	width: 201px;
+  	height: 153px;
+}
+.desktop-8-child5 {
+  	position: absolute;
+  	top: 2481px;
+  	left: 725px;
+  	border-radius: 30px;
+  	background-color: #d9d9d9;
+  	width: 201px;
+  	height: 153px;
+}
+.desktop-8-child6 {
+  	position: absolute;
+  	top: 2481px;
+  	left: 965px;
+  	border-radius: 30px;
+  	background-color: #d9d9d9;
+  	width: 201px;
+  	height: 153px;
+}
+.desktop-8-child7 {
+  	position: absolute;
+  	top: 1122px;
+  	left: 165px;
+  	border-radius: 30px 30px 0px 0px;
+  	background-color: #f7f7f7;
+  	width: 401px;
+  	height: 303px;
+}
+.desktop-8-child8 {
+  	position: absolute;
+  	top: 1122px;
+  	left: 875px;
+  	border-radius: 30px 30px 0px 0px;
+  	background-color: #f7f7f7;
+  	width: 401px;
+  	height: 303px;
+}
+.desktop-8-child9 {
+  	position: absolute;
+  	top: 1629px;
+  	left: 875px;
+  	border-radius: 30px 30px 0px 0px;
+  	background-color: #f7f7f7;
+  	width: 401px;
+  	height: 303px;
+}
+.desktop-8-child10 {
+  	position: absolute;
+  	top: 1629px;
+  	left: 165px;
+  	border-radius: 30px 30px 0px 0px;
+  	background-color: #f7f7f7;
+  	width: 401px;
+  	height: 303px;
+}
+.hoc-phi-truong-mam-non-song-ng-icon1 {
+  	position: absolute;
+  	top: 1122px;
+  	left: 165px;
+  	border-radius: 30px 30px 0px 0px;
+  	width: 401px;
+  	height: 303px;
+  	object-fit: cover;
+}
+.hoc-phi-truong-mam-non-song-ng-icon2 {
+  	position: absolute;
+  	top: 1122px;
+  	left: 875px;
+  	border-radius: 30px 30px 0px 0px;
+  	width: 401px;
+  	height: 303px;
+  	object-fit: cover;
+}
+.hoc-phi-truong-mam-non-song-ng-icon3 {
+  	position: absolute;
+  	top: 1629px;
+  	left: 875px;
+  	border-radius: 30px 30px 0px 0px;
+  	width: 401px;
+  	height: 303px;
+  	object-fit: cover;
+}
+.hoc-phi-truong-mam-non-song-ng-icon4 {
+  	position: absolute;
+  	top: 2233px;
+  	left: 243px;
+  	border-radius: 30px;
+  	width: 414px;
+  	height: 396px;
+  	object-fit: cover;
+}
+.hoc-phi-truong-mam-non-song-ng-icon5 {
+  	position: absolute;
+  	top: 2238px;
+  	left: 725px;
+  	border-radius: 30px;
+  	width: 201px;
+  	height: 152px;
+  	object-fit: cover;
+}
+.hoc-phi-truong-mam-non-song-ng-icon6 {
+  	position: absolute;
+  	top: 2239px;
+  	left: 967px;
+  	border-radius: 30px;
+  	width: 201px;
+  	height: 152px;
+  	object-fit: cover;
+}
+.hoc-phi-truong-mam-non-song-ng-icon7 {
+  	position: absolute;
+  	top: 2481px;
+  	left: 725px;
+  	border-radius: 30px;
+  	width: 201px;
+  	height: 152px;
+  	object-fit: cover;
+}
+.hoc-phi-truong-mam-non-song-ng-icon8 {
+  	position: absolute;
+  	top: 2481px;
+  	left: 965px;
+  	border-radius: 30px;
+  	width: 201px;
+  	height: 152px;
+  	object-fit: cover;
+}
+.hoc-phi-truong-mam-non-song-ng-icon9 {
+  	position: absolute;
+  	top: 1629px;
+  	left: 165px;
+  	border-radius: 30px 30px 0px 0px;
+  	width: 401px;
+  	height: 303px;
+  	object-fit: cover;
+}
+.tr-3-tui {
+  	position: absolute;
+  	top: 2649px;
+  	left: 243px;
+  	font-family: Kadwa;
+  	display: inline-block;
+  	width: 414px;
+}
+.tr-3-tui1 {
+  	position: absolute;
+  	top: 2404px;
+  	left: 725px;
+  	font-size: 12px;
+  	font-family: Kadwa;
+  	display: inline-block;
+  	width: 201px;
+}
+.tr-3-tui2 {
+  	position: absolute;
+  	top: 2648px;
+  	left: 725px;
+  	font-size: 12px;
+  	font-family: Kadwa;
+  	display: inline-block;
+  	width: 201px;
+}
+.tr-3-tui3 {
+  	position: absolute;
+  	top: 2648px;
+  	left: 965px;
+  	font-size: 12px;
+  	font-family: Kadwa;
+  	display: inline-block;
+  	width: 201px;
+}
+.tr-3-tui4 {
+  	position: absolute;
+  	top: 2404px;
+  	left: 965px;
+  	font-size: 12px;
+  	font-family: Kadwa;
+  	display: inline-block;
+  	width: 201px;
+}
+.line-div {
+  	position: absolute;
+  	height: 0.1%;
+  	width: 85.97%;
+  	top: 98.5%;
+  	right: 7.12%;
+  	bottom: 1.4%;
+  	left: 6.91%;
+  	border-top: 3px solid #fff;
+  	box-sizing: border-box;
+}
+.hot-ng {
+  	position: absolute;
+  	height: 0.52%;
+  	width: 6.94%;
+  	top: 95.82%;
+  	left: 51.46%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.hot-ng1 {
+  	position: absolute;
+  	height: 0.52%;
+  	width: 6.94%;
+  	top: 95.06%;
+  	left: 51.46%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.hot-ng2 {
+  	position: absolute;
+  	height: 0.52%;
+  	width: 6.94%;
+  	top: 94.3%;
+  	left: 51.46%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.hot-ng3 {
+  	position: absolute;
+  	height: 0.52%;
+  	width: 6.94%;
+  	top: 94.3%;
+  	left: 67.15%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.hot-ng4 {
+  	position: absolute;
+  	height: 0.52%;
+  	width: 6.94%;
+  	top: 93.54%;
+  	left: 67.29%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.hot-ng5 {
+  	position: absolute;
+  	height: 0.52%;
+  	width: 6.94%;
+  	top: 93.54%;
+  	left: 51.46%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.hot-ng6 {
+  	position: absolute;
+  	height: 0.52%;
+  	width: 6.94%;
+  	top: 96.58%;
+  	left: 28.68%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.hot-ng7 {
+  	position: absolute;
+  	height: 0.52%;
+  	width: 6.94%;
+  	top: 95.82%;
+  	left: 28.68%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.hot-ng8 {
+  	position: absolute;
+  	height: 0.52%;
+  	width: 6.94%;
+  	top: 95.06%;
+  	left: 28.68%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.hot-ng9 {
+  	position: absolute;
+  	height: 0.52%;
+  	width: 6.94%;
+  	top: 94.3%;
+  	left: 28.68%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.trung-tm-hot {
+  	position: absolute;
+  	height: 0.52%;
+  	width: 13.89%;
+  	top: 93.54%;
+  	left: 28.68%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.sakura1 {
+  	position: absolute;
+  	height: 1.08%;
+  	width: 9.44%;
+  	top: 93.22%;
+  	left: 7.64%;
+  	font-size: 40px;
+  	font-family: Kavoon;
+  	color: #00b8ec;
+  	text-align: center;
+  	display: inline-block;
+}
+.desktop-8 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 3046px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 20px;
+  	color: #000;
+  	font-family: Inter;
+}
+
